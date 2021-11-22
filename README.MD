@@ -2,7 +2,7 @@
 
 ## Available Content
 
-Well, check every resource, I'll not get into details, suit yourself.[^1]: ok, ok not **SO**  huge right now, but I'm always updating, so... get back later.
+Well, check every resource, I'll not get into details, suit yourself.[^1]
 
 ## Future Updates
 
@@ -22,3 +22,5 @@ Well, check every resource, I'll not get into details, suit yourself.[^1]: ok, o
 Contributions, issues, and feature requests are welcome!
 
 ~~Give a ⭐️~~ Send real money if you like this project! [PayPal](https://paypal.me/ojmarcelino "PayPal.me")
+
+[^1]: ok, ok not **SO**  huge right now, but I'm always updating, so... get back later.
