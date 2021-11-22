@@ -1,0 +1,17 @@
+#!/bin/sh
+# How about a nice change of those boring MOTD message?
+# Just save this file on /etc/update-motd.d/ directory.
+# Test and tell me about your own WOPR instance later. LOL
+dRunning=$(docker ps -q | wc -l)
+dExited=$(docker ps -aq --filter status=exited | wc -l)
+dImages=$(docker images -q | wc -l)
+dServices=$(docker service ls -q | wc -l)
+echo "# Greetings, Professor Falken."
+echo "#"
+echo "# This host has $dRunning container(s) running;"
+echo "#                $dExited container(s) exited;"
+echo "#                $dImages image(s)."
+echo "#"
+echo "# I should reach DEFCON1 and launch my missiles in 28 hours."
+echo "#"
+echo "# How about a nice game of chess?"

@@ -1,0 +1,9 @@
+#!/bin/sh
+# Once upon a time there was a lovely issue...
+# I was needing to keep some of my droids online, with wireless debugging 
+# active, even if scrcpy was off or disconnected.
+# this was a nice "workaround/gambiarra", works like a charm.
+adb shell input keyevent 224
+timeout 2
+adb shell input keyevent 26
+timeout 58
