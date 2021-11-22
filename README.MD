@@ -13,7 +13,7 @@ Well, check every resource, I'll not get into details, suit yourself.
 
 ## Author
 
-**Juliano Marcelino** ...available at:  [GitHub](https://github.com/ojmarcelino "GitHub") | [LinkedIn](https://linkedin.com/in/ojmarcelino "LinkedIn") | [Telegram](https://t.me/ojmarcelino "Telegram")
+**Juliano Marcelino**:  [GitHub](https://github.com/ojmarcelino "GitHub") | [LinkedIn](https://linkedin.com/in/ojmarcelino "LinkedIn") | [Telegram](https://t.me/ojmarcelino "Telegram")
 
 
 ## 🤝 Support
