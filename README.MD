@@ -2,7 +2,7 @@
 
 ## Available Content
 
-[Templates]: use with 'XDG_TEMPLATES_DIR="$HOME/Templates"' changing to your local folder. [^2]
+[Templates](Templates): use with 'XDG_TEMPLATES_DIR="$HOME/Templates"' changing to your local folder. [^2]
 
 Well, check every resource, I'll not get into details, suit yourself.[^1]
 
