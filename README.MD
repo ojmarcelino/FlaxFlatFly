@@ -1,16 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=FlaxFlatFly&desc=A%20huge%20set%20of%20useful%20stuff&fontSize=40" />
 
-## Available Content[^1]: ok, ok not **SO**  huge right now, but I'm always updating, so... get back later.
+## Available Content
 
-Well, check every resource, I'll not get into details, suit yourself.
+Well, check every resource, I'll not get into details, suit yourself.[^1]: ok, ok not **SO**  huge right now, but I'm always updating, so... get back later.
 
 ## Future Updates
 
 - [ ] Cheap and Reliable Storage
 - [x] Find the half my mind
 - [ ] Find one more half my mind
-- [ ] Find the last half my mind
+- [ ] Find the other half my mind
 - [ ] Stop writing lazy markdown readme
+- [ ] 42
 
 ## Author
 
