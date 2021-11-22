@@ -1,25 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=FlaxFlatFly&desc=A%20huge%20set%20of%20useful%20stuff&fontSize=40" />
 
-HUGE[^1] 
-[^1]: ok, ok not **SO**  huge right now, but I'm always updating, so... get back later.
-
-
-
-## Available Content
+## Available Content[^1]: ok, ok not **SO**  huge right now, but I'm always updating, so... get back later.
 
 Well, check every resource, I'll not get into details, suit yourself.
 
 ## Future Updates
 
 - [ ] Cheap and Reliable Storage
-- [ ] Find my mind
+- [x] Find the half my mind
+- [ ] Find one more half my mind
+- [ ] Find the last half my mind
 - [ ] Stop writing lazy markdown readme
-
 
 ## Author
 
 **Juliano Marcelino**:  [GitHub](https://github.com/ojmarcelino "GitHub") | [LinkedIn](https://linkedin.com/in/ojmarcelino "LinkedIn") | [Telegram](https://t.me/ojmarcelino "Telegram")
-
 
 ## 🤝 Support
 
