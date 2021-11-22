@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=FlaxFlatFly[^1]&desc=A%20huge%20set%20of%20useful%20stuff&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=FlaxFlatFly&desc=A%20huge%20set%20of%20useful%20stuff&fontSize=40" />
 
-[^1] 
+HUGE[^1] 
 [^1]: ok, ok not **SO**  huge right now, but I'm always updating, so... get back later.
 
 
