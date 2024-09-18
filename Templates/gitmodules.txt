@@ -1,0 +1,3 @@
+[submodule "agoravai"]
+	path = agoravai
+	url = https://github.com/ojmarcelino/AgoraVaiSaporra.git
